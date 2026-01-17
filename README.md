@@ -1,3 +1,15 @@
+=======
+# Formulario con eventos en React - Tarea M2 U4 
+  Manejo de eventos en formularios y componentes.
+
+# Instalación
+npm install
+# Ejecución
+npm run dev
+
+# Autor
+Sofia G. Bazan
+
 <<<<<<< HEAD
 # React + Vite
 
@@ -15,15 +27,5 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Formulario con eventos en React - Tarea M2 U4 
-  Manejo de eventos en formularios y componentes.
 
-# Instalación
-npm install
-# Ejecución
-npm run dev
-
-# Autor
-Sofia G. Bazan
 >>>>>>> cbd3f49f9febabe9a78bb27430dde30bff6b5b57
